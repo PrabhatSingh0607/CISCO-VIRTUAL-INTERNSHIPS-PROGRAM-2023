@@ -1,4 +1,4 @@
-# CISCO-VIRTUAL-INTERNSHIPS-PROGRAM-2023
+# CISCO Packet Flow Visualizer Project
 Packet Flow Visualizer.  The main objective of this project is to create a visual representation of the packet flow from students' laptops/desktops (hosts) to external networks outside of the college campus. 
 
 # Problem statment : 
